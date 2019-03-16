@@ -1,3 +1,3 @@
 # iot-home
 
-A Set of Arduino projects.
+A Set of Arduino sketches that enables home sensor automation.
